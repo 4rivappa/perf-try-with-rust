@@ -51,5 +51,5 @@ fn random_vector(size: u32) -> Vec<i32> {
 }
 
 fn main() {
-    run_benchmark(100);
+    run_benchmark(1000000);
 }
